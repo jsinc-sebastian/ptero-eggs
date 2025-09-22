@@ -103,6 +103,7 @@ $phpVersion = phpversion();
     <div class="webroot-message">You can now place your website files in the webroot folder</div>
     <div class="footer">
         <p>Powered by <a href="https://clutchvps.no" target="_blank">clutchvps.no</a></p>
+        <p>Powered by <a href="info.php" target="_blank">PHP info</a></p>
     </div>
 </div>
 
