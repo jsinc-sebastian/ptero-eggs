@@ -102,7 +102,7 @@ $phpVersion = phpversion();
     <div class="message">Webserver correctly installed and running!</div>
     <div class="webroot-message">You can now place your website files in the webroot folder</div>
     <div class="footer">
-        <p>Powered by <a href="https://sigmaprods.dev" target="_blank">sigmaprods.dev</a></p>
+        <p>Powered by <a href="https://clutchvps.no" target="_blank">clutchvps.no</a></p>
     </div>
 </div>
 
